@@ -10,7 +10,7 @@
 
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/sandronsk1977-creator/sandronsk1977-creator@main/assets/zabbix.svg" width="38" alt="Zabbix"> | <img src="https://cdn.jsdelivr.net/gh/sandronsk1977-creator/sandronsk1977-creator@main/assets/grafana.svg" width="38" alt="Grafana"> | <img src="https://cdn.jsdelivr.net/gh/sandronsk1977-creator/sandronsk1977-creator@main/assets/fortigate.svg" width="38" alt="FortiGate"> | <img src="https://cdn.jsdelivr.net/gh/sandronsk1977-creator/sandronsk1977-creator@main/assets/azure.svg" width="38" alt="Azure"> | ![](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white) |
+| <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/44621ac032519fe469d2afb0c1d9e83480170ddd/assets/zabbix.svg" width="38" alt="Zabbix"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/44621ac032519fe469d2afb0c1d9e83480170ddd/assets/grafana.svg" width="38" alt="Grafana"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/44621ac032519fe469d2afb0c1d9e83480170ddd/assets/fortigate.svg" width="38" alt="FortiGate"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/44621ac032519fe469d2afb0c1d9e83480170ddd/assets/azure.svg" width="38" alt="Azure"> | ![](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white) |
 | **Zabbix** | **Grafana** | **FortiGate** | **Azure** | **Microsoft 365** |
 
 <br>
