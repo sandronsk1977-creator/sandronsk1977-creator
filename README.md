@@ -110,19 +110,11 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ---
 
-### 🔀 Simulador de VLANs
-
-> Simulador interativo para criação e representação de VLANs e cenários de redes. Facilitar o entendimento e planejamento de ambientes de rede.
-
-**Tecnologias:** HTML • CSS • JavaScript • Redes
-
-**[🔗 Ver projeto](https://github.com/sandronsk1977-creator/VLans)**
-
----
-
-### 🔐 SF-Cyber
+### 🛡️ SF-Cyber
 
 > Projeto voltado para **Cybersecurity**, estudos, scripts e ferramentas relacionadas à segurança da informação.
+> 
+**[🔗 Ver projeto](https://github.com/sandronsk1977-creator/sf-cyber)** • **[🌐 Site](https://sfcyber.projetosdisruptivos.com.br/)**
 
 **Tecnologias:** Python • Scripts • Segurança
 
