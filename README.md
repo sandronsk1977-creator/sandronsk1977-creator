@@ -124,7 +124,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 **Tecnologias:** HTML • CSS • JavaScript • Redes
 
-**[🔗 Ver projeto](https://github.com/sandronsk1977-creator/VLAns)**
+**[🔗 Ver projeto](https://github.com/sandronsk1977-creator/VLans)**
 
 ---
 
