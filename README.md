@@ -27,18 +27,6 @@
 
 Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infraestrutura, Redes, Servidores, Monitoramento, CiberSegurança e Automação**. Transformo as necessidades do dia a dia da TI em **soluções práticas, ferramentas e projetos que geram resultados reais**.
 
-## 🧠 O que eu faço
-
-- 🏗️ **Infraestrutura e Redes** como base de tudo
-- 📋 **Processos e service desk** com ITSM, catálogo e SLA com GLPI
-- 📊 **Monitoramento e observabilidade** com Zabbix e Grafana
-- ⚡ **Automação** de scripts, rotinas e integrações
-- 🔐 **Cibersegurança** em ambiente corporativo
-- 🤖 **Automação com IA**
-- 🎓 **Ensino e mentoria** em TI e Redes
-
----
-
 ## 🎓 Formação & Foco
 
 - 🎓 **Graduado em Defesa Cibernética**
@@ -48,6 +36,18 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 - 🌐 **Redes e Conectividade**
 - 🔐 **Cybersecurity**
 - ⚙️ **Automação e Scripts** (Python, PowerShell, Bash e IA)
+
+---
+
+## 🧠 O que eu faço
+
+- 🏗️ **Infraestrutura e Redes** como base de tudo
+- 📋 **Processos e service desk** com ITSM, catálogo e SLA com GLPI
+- 📊 **Monitoramento e observabilidade** com Zabbix e Grafana
+- ⚡ **Automação** de scripts, rotinas e integrações
+- 🔐 **Cibersegurança** em ambiente corporativo
+- 🤖 **Automação com IA**
+- 🎓 **Ensino e mentoria** em TI e Redes
 
 ---
 
@@ -113,7 +113,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ### 🤖 Tutoria EaD
 
-> Automação sofisticada na tutoria EaD. A infraestrutura encontra quem precisa de atenção humana e a AS interpreta o contexto do aluno, fazendo a primeira intervenção sozinha. O tutor recebe apenas os casos que exigem ação humana.
+> Automação sofisticada na Tutoria EaD. A infraestrutura encontra quem precisa de atenção humana e a AS interpreta o contexto do aluno, fazendo a primeira intervenção sozinha. O tutor recebe apenas os casos que exigem ação humana.
 
 **Painel no padrão Azure / Entra ID** • **Tecnologias:** HTML • CSS • JavaScript • Python • Automação
 
