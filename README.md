@@ -71,16 +71,6 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 AS: Acompanhamento Inteligente EaD
-
-> Automação sofisticada na tutoria EaD. A infraestrutura encontra quem precisa de atenção humana e a AS interpreta o contexto do aluno, fazendo a primeira intervenção sozinha. O tutor recebe apenas os casos que exigem ação humana.
-
-**Painel no padrão Azure / Entra ID** • **Tecnologias:** HTML • CSS • JavaScript • Python • Automação
-
-**[🔗 Ver projeto](https://github.com/sandronsk1977-creator/tutoria_ead)**
-
----
-
 ### 🌐 Portfolio
 
 > Projeto voltado para apresentação profissional, desenvolvimento web e organização de soluções.
@@ -109,11 +99,13 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ---
 
-### 🎮 Rede Virtual
+### 🤖 Tutoria EaD
 
-> Projeto voltado para criação de **ambientes gamificados para aprendizagem**, buscando aumentar o engajamento e a participação dos alunos.
+> Automação sofisticada na tutoria EaD. A infraestrutura encontra quem precisa de atenção humana e a AS interpreta o contexto do aluno, fazendo a primeira intervenção sozinha. O tutor recebe apenas os casos que exigem ação humana.
 
-**Tecnologias:** HTML • CSS • JavaScript • Gamificação
+**Painel no padrão Azure / Entra ID** • **Tecnologias:** HTML • CSS • JavaScript • Python • Automação
+
+**[🔗 Ver projeto](https://github.com/sandronsk1977-creator/tutoria_ead)**
 
 ---
 
