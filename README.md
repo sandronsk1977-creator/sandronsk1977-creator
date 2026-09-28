@@ -7,7 +7,7 @@
 
 <br>
 
-### 👨🏻‍💻 Profissional de TI • ITSM • Infraestrutura • Monitoramento • Cybersecurity • Automação • Redes
+### 👨🏻‍💻 • ITSM • Infraestrutura • Monitoramento • Cybersecurity • Automação • Redes
 
 🇧🇷 Brazil
 
