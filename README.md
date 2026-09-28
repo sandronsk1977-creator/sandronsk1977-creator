@@ -133,19 +133,15 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ## 📚 O que estou estudando e praticando
 
-```text
-┌───────────────────────────────────┐
-│                                   │
-│   🐍 Python                       │
-│   🤖 Automação com IA             │
-│   🔐 Cybersecurity                │
-│   ☁️ Cloud Computing              │
-│   📊 Observabilidade              │
-│   🚀 DevOps                       │
-│   📋 Gestão de Projetos           │
-│                                   │
-└───────────────────────────────────┘
-```
+| Tecnologia | Foco |
+|:---:|:---|
+| 🐍 Python | Automação, scripts e IA aplicada |
+| 🤖 Automação com IA | IA em rotinas de TI |
+| 🔐 Cybersecurity | Defesa e segurança da informação |
+| ☁️ Cloud Computing | Azure, identidade e serviços |
+| 📊 Observabilidade | Monitoramento, métricas e logs |
+| 🚀 DevOps | Automação de infraestrutura e CI |
+| 📋 Gestão de Projetos | Planejamento, escopo e entrega |
 
 ---
 
