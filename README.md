@@ -109,11 +109,11 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ### 🛡️ SF-Cyber
 
-> Projeto voltado para **Cybersecurity**, estudos, scripts e ferramentas relacionadas à segurança da informação. Reúne o **simulador interativo de switch Cisco para criação de VLANs**, com 6 níveis, terminal de comandos Cisco, teste de conectividade, prova final e certificado de conclusão.
+> Projeto voltado para **Cybersecurity** e **Redes**, com uma plataforma de simulação prática: switch Cisco para criação de VLANs, análise SOC, segurança web (SQLi e XSS) e servidor DNS. Cada simulador tem **8 níveis**, avaliação final e certificado de conclusão.
 
 **[🔗 Ver projeto](https://github.com/sandronsk1977-creator/sf-cyber)** • **[🌐 Site](https://sfcyber.projetosdisruptivos.com.br/)**
 
-**Tecnologias:** Python • HTML • CSS • JavaScript • Redes • Scripts • Segurança
+**Tecnologias:** React • TypeScript • Vite • HTML • CSS • JavaScript • Redes • Segurança
 
 ---
 
