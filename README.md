@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sandronsk1977-creator/sandronsk1977-creator@44621ac032519fe469d2afb0c1d9e83480170ddd/assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sandronsk1977-creator/sandronsk1977-creator@44621ac032519fe469d2afb0c1d9e83480170ddd/assets/banner-light.svg">
-  <img src="https://cdn.jsdelivr.net/gh/sandronsk1977-creator/sandronsk1977-creator@44621ac032519fe469d2afb0c1d9e83480170ddd/assets/banner-light.svg" alt="Sandro Ferreira - Profissional de TI" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/44621ac032519fe469d2afb0c1d9e83480170ddd/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/44621ac032519fe469d2afb0c1d9e83480170ddd/assets/banner-light.svg">
+  <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/44621ac032519fe469d2afb0c1d9e83480170ddd/assets/banner-light.svg" alt="Sandro Ferreira - Profissional de TI" width="100%">
 </picture>
 
 <br>
