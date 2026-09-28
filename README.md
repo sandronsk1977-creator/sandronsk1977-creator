@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Sandro+Ferreira;Profissional+de+TI+%E2%80%A2+ITSM+%E2%80%A2+Infraestrutura;Monitoramento+%E2%80%A2+Ciberseguran%C3%A7a+%E2%80%A2+Automa%C3%A7%C3%A3o;Ensino+e+mentoria">
-  <img alt="Sandro Ferreira - Profissional de TI" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0F6CBD&center=true&vCenter=true&width=640&lines=Sandro+Ferreira;Profissional+de+TI+%E2%80%A2+ITSM+%E2%80%A2+Infraestrutura;Monitoramento+%E2%80%A2+Ciberseguran%C3%A7a+%E2%80%A2+Automa%C3%A7%C3%A3o;Ensino+e+mentoria">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Sandro+Ferreira;Profissional+de+TI+%E2%80%A2+ITSM+%E2%80%A2+Infraestrutura;Monitoramento+%E2%80%A2+Ciberseguran%C3%A7a+%E2%80%A2+Automa%C3%A7%C3%A3o;Ensino+e+Mentoria">
+  <img alt="Sandro Ferreira - Profissional de TI" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0F6CBD&center=true&vCenter=true&width=640&lines=Sandro+Ferreira;Profissional+de+TI+%E2%80%A2+ITSM+%E2%80%A2+Infraestrutura;Monitoramento+%E2%80%A2+Ciberseguran%C3%A7a+%E2%80%A2+Automa%C3%A7%C3%A3o;Ensino+e+Mentoria">
 </picture>
 
 <br>
@@ -110,11 +110,11 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ### 🛡️ SF-Cyber
 
-> Projeto voltado para **Cybersecurity**, estudos, scripts e ferramentas relacionadas à segurança da informação.
-> 
-**[🔗 Ver projeto](https://github.com/sandronsk1977-creator/sf-cyber)** • **[🌐 Site](https://sfcyber.projetosdisruptivos.com.br/)**
+> Projeto voltado para **Cybersecurity**, estudos, scripts e ferramentas relacionadas à segurança da informação. Reúne o **simulador interativo de switch Cisco para criação de VLANs**, com 6 níveis, terminal de comandos Cisco, teste de conectividade, prova final e certificado de conclusão.
 
-**Tecnologias:** Python • Scripts • Segurança
+**[🔗 Ver projeto](https://github.com/sandronsk1977-creator/sf-cyber)** • **[🌐 Site](https://sfcyber.projetosdisruptivos.com.br/)** • **[🔀 Simulador de VLANs](https://github.com/sandronsk1977-creator/VLans)**
+
+**Tecnologias:** Python • HTML • CSS • JavaScript • Redes • Scripts • Segurança
 
 ---
 
