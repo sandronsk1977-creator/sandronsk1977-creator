@@ -41,6 +41,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 | ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Servidores e Sistemas Operacionais |
 | ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Identidade e Virtualização |
 | ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white) | Produtividade e Colaboração |
+| ![FortiGate](https://img.shields.io/badge/FortiGate-EE0000?style=flat-square&logo=fortinet&logoColor=white) | Firewall e Segurança de Perímetro |
 
 ### 📊 Monitoramento & Observabilidade
 
