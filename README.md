@@ -75,7 +75,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 |:---:|:---|
 | ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Servidores e Sistemas Operacionais |
 | ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Identidade e Virtualização |
-| ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white) | Produtividade e Colaboração |
+| ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | Produtividade e Colaboração |
 | ![FortiGate](https://img.shields.io/badge/FortiGate-EE0000?style=flat-square&logo=fortinet&logoColor=white) | Firewall e Segurança de Perímetro |
 
 ### 📊 Monitoramento & Observabilidade
@@ -101,7 +101,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Scripts, Automação e IA |
 | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) | Automação de Infraestrutura |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Versionamento |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | Desenvolvimento Web |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Desenvolvimento Web |
 
 ---
 
