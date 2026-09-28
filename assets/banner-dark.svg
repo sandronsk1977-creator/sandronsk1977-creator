@@ -2,13 +2,13 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0B1220">
-        <animate attributeName="stop-color" values="#0B1220;#0D1B33;#0B1220" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#0B1220;#10203C;#0B1220" dur="14s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="55%" stop-color="#102A43">
-        <animate attributeName="stop-color" values="#102A43;#14395E;#102A43" dur="14s" repeatCount="indefinite"/>
+      <stop offset="55%" stop-color="#123A63">
+        <animate attributeName="stop-color" values="#123A63;#1A5490;#123A63" dur="14s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#0F6CBD">
-        <animate attributeName="stop-color" values="#0F6CBD;#1D8AE0;#0F6CBD" dur="14s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#1B7FE0">
+        <animate attributeName="stop-color" values="#1B7FE0;#38A0FF;#1B7FE0" dur="14s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
     <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
@@ -29,16 +29,16 @@
   <g clip-path="url(#frame)">
     <rect width="1200" height="400" fill="url(#bg)"/>
 
-    <rect x="0" y="0" width="1200" height="6" fill="#0F6CBD">
-      <animate attributeName="fill" values="#0F6CBD;#4FC3F7;#0F6CBD" dur="6s" repeatCount="indefinite"/>
+    <rect x="0" y="0" width="1200" height="6" fill="#1B7FE0">
+      <animate attributeName="fill" values="#1B7FE0;#7DD3FC;#1B7FE0" dur="6s" repeatCount="indefinite"/>
     </rect>
 
-    <circle cx="1085" cy="60" r="190" fill="#0F6CBD" opacity="0.12">
+    <circle cx="1085" cy="60" r="190" fill="#1B7FE0" opacity="0.14">
       <animate attributeName="cy" values="50;150;50" dur="16s" repeatCount="indefinite"/>
       <animate attributeName="r" values="190;220;190" dur="16s" repeatCount="indefinite"/>
     </circle>
 
-    <circle cx="110" cy="370" r="150" fill="#4FC3F7" opacity="0.07">
+    <circle cx="110" cy="370" r="150" fill="#7DD3FC" opacity="0.09">
       <animate attributeName="cy" values="380;300;380" dur="20s" repeatCount="indefinite"/>
       <animate attributeName="r" values="150;175;150" dur="20s" repeatCount="indefinite"/>
     </circle>
@@ -51,14 +51,14 @@
 
     <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Sandro Ferreira</text>
 
-    <rect x="500" y="181" width="200" height="3" rx="1.5" fill="#4FC3F7">
+    <rect x="500" y="181" width="200" height="3" rx="1.5" fill="#7DD3FC">
       <animate attributeName="width" values="60;220;60" dur="9s" repeatCount="indefinite"/>
       <animate attributeName="x" values="570;490;570" dur="9s" repeatCount="indefinite"/>
     </rect>
 
     <rect x="0" y="212" width="1200" height="58" fill="#050B14" opacity="0.55"/>
-    <rect x="0" y="212" width="1200" height="1" fill="#4FC3F7" opacity="0.35"/>
-    <rect x="0" y="269" width="1200" height="1" fill="#4FC3F7" opacity="0.35"/>
+    <rect x="0" y="212" width="1200" height="1" fill="#7DD3FC" opacity="0.45"/>
+    <rect x="0" y="269" width="1200" height="1" fill="#7DD3FC" opacity="0.45"/>
 
     <g mask="url(#fade)">
       <g>
