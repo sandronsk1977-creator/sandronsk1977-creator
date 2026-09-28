@@ -4,8 +4,6 @@
 
 <br>
 
-<div align="center"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/40934627db6d6bf28c29f597b50c795afff6e9d2/assets/title-stack.svg" alt="Ferramentas e plataformas do dia a dia" width="520"></div>
-
 <table>
   <tr>
     <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/zabbix.svg" width="42" alt="Zabbix"><br><b>Zabbix</b></td>
