@@ -72,7 +72,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 ### 💻 Infraestrutura
 
 | Tecnologia | Área |
-|:---:|:---|
+|---|---|
 | ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Servidores e Sistemas Operacionais |
 | ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Identidade e Virtualização |
 | ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | Produtividade e Colaboração |
@@ -81,7 +81,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 ### 📊 Monitoramento & Observabilidade
 
 | Tecnologia | Área |
-|:---:|:---|
+|---|---|
 | ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) | Monitoramento e Dashboards |
 | ![GLPI](https://img.shields.io/badge/GLPI-0078D4?style=flat-square&logo=glpi&logoColor=white) | Gestão de Serviços e Inventário |
 | ![SNMP](https://img.shields.io/badge/SNMP-1F2937?style=flat-square) ![Observability](https://img.shields.io/badge/Observability-6C63FF?style=flat-square) | Coleta e Observabilidade |
@@ -89,7 +89,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 ### 🌐 Redes
 
 | Tecnologia | Área |
-|:---:|:---|
+|---|---|
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![VLAN](https://img.shields.io/badge/VLAN-0052CC?style=flat-square) | Switching e Segmentação |
 | ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1F2937?style=flat-square) ![DNS](https://img.shields.io/badge/DNS-4285F4?style=flat-square&logo=google&logoColor=white) | Comunicação e Resolução |
 | ![DHCP](https://img.shields.io/badge/DHCP-0078D4?style=flat-square) ![Firewall](https://img.shields.io/badge/Firewall-EF4444?style=flat-square) | Distribuição e Segurança de Rede |
@@ -97,7 +97,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 ### ⚙️ Automação & Desenvolvimento
 
 | Tecnologia | Área |
-|:---:|:---|
+|---|---|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Scripts, Automação e IA |
 | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) | Automação de Infraestrutura |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Versionamento |
