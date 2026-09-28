@@ -4,10 +4,18 @@
 
 <br>
 
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/44621ac032519fe469d2afb0c1d9e83480170ddd/assets/zabbix.svg" width="38" alt="Zabbix"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/44621ac032519fe469d2afb0c1d9e83480170ddd/assets/grafana.svg" width="38" alt="Grafana"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/44621ac032519fe469d2afb0c1d9e83480170ddd/assets/fortigate.svg" width="38" alt="FortiGate"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/44621ac032519fe469d2afb0c1d9e83480170ddd/assets/azure.svg" width="38" alt="Azure"> | ![](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white) |
-| **Zabbix** | **Grafana** | **FortiGate** | **Azure** | **Microsoft 365** |
+**Ferramentas e plataformas do dia a dia**
+
+<table>
+  <tr>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/zabbix.svg" width="42" alt="Zabbix"><br><b>Zabbix</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/grafana.svg" width="42" alt="Grafana"><br><b>Grafana</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/fortigate.svg" width="42" alt="FortiGate"><br><b>FortiGate</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/azure.svg" width="42" alt="Azure"><br><b>Azure</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/microsoft-365.svg" width="42" alt="Microsoft 365"><br><b>Microsoft 365</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/glpi.svg" width="42" alt="GLPI"><br><b>GLPI</b></td>
+  </tr>
+</table>
 
 <br>
 
