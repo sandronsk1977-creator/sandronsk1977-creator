@@ -112,7 +112,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 > Projeto voltado para **Cybersecurity**, estudos, scripts e ferramentas relacionadas à segurança da informação. Reúne o **simulador interativo de switch Cisco para criação de VLANs**, com 6 níveis, terminal de comandos Cisco, teste de conectividade, prova final e certificado de conclusão.
 
-**[🔗 Ver projeto](https://github.com/sandronsk1977-creator/sf-cyber)** • **[🌐 Site](https://sfcyber.projetosdisruptivos.com.br/)** • **[🔀 Simulador de VLANs](https://github.com/sandronsk1977-creator/VLans)**
+**[🔗 Ver projeto](https://github.com/sandronsk1977-creator/sf-cyber)** • **[🌐 Site](https://sfcyber.projetosdisruptivos.com.br/)**
 
 **Tecnologias:** Python • HTML • CSS • JavaScript • Redes • Scripts • Segurança
 
