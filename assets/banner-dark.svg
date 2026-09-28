@@ -16,7 +16,14 @@
       <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.13"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="edgeFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="14%" stop-color="#FFFFFF"/>
+      <stop offset="86%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
     <clipPath id="frame"><rect width="1200" height="400"/></clipPath>
+    <mask id="fade"><rect width="1200" height="400" fill="url(#edgeFade)"/></mask>
   </defs>
 
   <g clip-path="url(#frame)">
@@ -42,16 +49,25 @@
       </rect>
     </g>
 
-    <text x="600" y="165" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Sandro Ferreira</text>
+    <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Sandro Ferreira</text>
 
-    <rect x="500" y="196" width="200" height="3" rx="1.5" fill="#4FC3F7">
+    <rect x="500" y="181" width="200" height="3" rx="1.5" fill="#4FC3F7">
       <animate attributeName="width" values="60;220;60" dur="9s" repeatCount="indefinite"/>
       <animate attributeName="x" values="570;490;570" dur="9s" repeatCount="indefinite"/>
     </rect>
 
-    <text x="600" y="252" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" fill="#C7D6E5">Profissional de TI &#8226; ITSM &#8226; Infraestrutura &#8226; Monitoramento</text>
-    <text x="600" y="290" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" fill="#C7D6E5">Ciberseguran&#231;a &#8226; Automa&#231;&#227;o &#8226; Redes</text>
+    <rect x="0" y="212" width="1200" height="58" fill="#050B14" opacity="0.55"/>
+    <rect x="0" y="212" width="1200" height="1" fill="#4FC3F7" opacity="0.35"/>
+    <rect x="0" y="269" width="1200" height="1" fill="#4FC3F7" opacity="0.35"/>
 
-    <text x="600" y="366" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="19" letter-spacing="4" fill="#7FB3E0">BRASIL &#8226; ITIL &#8226; COBIT</text>
+    <g mask="url(#fade)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-1600 0" dur="22s" repeatCount="indefinite"/>
+        <text x="800" y="248" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="19" fill="#DCE7F2">Profissional de TI &#8226; ITSM &#8226; Infraestrutura &#8226; Monitoramento &#8226; Ciberseguran&#231;a &#8226; Automa&#231;&#227;o &#8226; Redes &#8226;</text>
+        <text x="2400" y="248" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="19" fill="#DCE7F2">Profissional de TI &#8226; ITSM &#8226; Infraestrutura &#8226; Monitoramento &#8226; Ciberseguran&#231;a &#8226; Automa&#231;&#227;o &#8226; Redes &#8226;</text>
+      </g>
+    </g>
+
+    <text x="600" y="360" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="19" letter-spacing="4" fill="#7FB3E0">BRASIL &#8226; ITIL &#8226; COBIT</text>
   </g>
 </svg>
