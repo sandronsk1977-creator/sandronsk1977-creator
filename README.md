@@ -53,15 +53,17 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ## 🧠 O que eu faço
 
-| | |
-|---|---|
-| 🏗️ | **Infraestrutura e Redes** como base de tudo |
-| 📋 | **Processos e service desk** com ITSM, catálogo e SLA com GLPI |
-| 📊 | **Monitoramento e observabilidade** com Zabbix e Grafana |
-| ⚡ | **Automação** de scripts, rotinas e integrações |
-| 🔐 | **Cibersegurança** em ambiente corporativo |
-| 🤖 | **Automação com IA** |
-| 🎓 | **Ensino e mentoria** em TI e Redes |
+<table>
+  <tbody>
+    <tr><td>🏗️</td><td><b>Infraestrutura e Redes</b> como base de tudo</td></tr>
+    <tr><td>📋</td><td><b>Processos e service desk</b> com ITSM, catálogo e SLA com GLPI</td></tr>
+    <tr><td>📊</td><td><b>Monitoramento e observabilidade</b> com Zabbix e Grafana</td></tr>
+    <tr><td>⚡</td><td><b>Automação</b> de scripts, rotinas e integrações</td></tr>
+    <tr><td>🔐</td><td><b>Cibersegurança</b> em ambiente corporativo</td></tr>
+    <tr><td>🤖</td><td><b>Automação com IA</b></td></tr>
+    <tr><td>🎓</td><td><b>Ensino e mentoria</b> em TI e Redes</td></tr>
+  </tbody>
+</table>
 
 ---
 
