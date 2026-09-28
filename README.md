@@ -37,15 +37,17 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ## 🎓 Formação & Foco
 
-| | |
-|---|---|
-| 🎓 | **Graduado em Defesa Cibernética** |
-| 🎓 | **Pós-Graduado em Gestão de Projetos** |
-| 💻 | **Infraestrutura e Suporte de TI** |
-| 📊 | **Monitoramento e Observabilidade** |
-| 🌐 | **Redes e Conectividade** |
-| 🔐 | **Cybersecurity** |
-| ⚙️ | **Automação e Scripts** (Python, PowerShell, Bash e IA) |
+<table>
+  <tbody>
+    <tr><td>🎓</td><td><b>Graduado em Defesa Cibernética</b></td></tr>
+    <tr><td>🎓</td><td><b>Pós-Graduado em Gestão de Projetos</b></td></tr>
+    <tr><td>💻</td><td><b>Infraestrutura e Suporte de TI</b></td></tr>
+    <tr><td>📊</td><td><b>Monitoramento e Observabilidade</b></td></tr>
+    <tr><td>🌐</td><td><b>Redes e Conectividade</b></td></tr>
+    <tr><td>🔐</td><td><b>Cybersecurity</b></td></tr>
+    <tr><td>⚙️</td><td><b>Automação e Scripts</b> (Python, PowerShell, Bash e IA)</td></tr>
+  </tbody>
+</table>
 
 ---
 
