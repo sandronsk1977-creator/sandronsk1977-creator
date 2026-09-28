@@ -1,6 +1,11 @@
 <div align="center">
 
-# 👨‍💻 Sandro Ferreira
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0B3C5D&fontSize=48&fontAlignY=40&text=Sandro%20Ferreira&desc=Analista%20de%20TI%20%7C%20ITSM%20%7C%20Infraestrutura%20%7C%20Automacao&descAlignY=62&descSize=18&theme=merko">
+  <img alt="Sandro Ferreira" src="https://capsule-render.vercel.app/api?type=waving&color=0F6CBD&fontSize=48&fontAlignY=40&text=Sandro%20Ferreira&desc=Analista%20de%20TI%20%7C%20ITSM%20%7C%20Infraestrutura%20%7C%20Automacao&descAlignY=62&descSize=18&theme=default">
+</picture>
+
+<br>
 
 ### 💼 Analista de TI • ITSM • Infraestrutura • Monitoramento • Cybersecurity
 
