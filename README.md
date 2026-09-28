@@ -1,13 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0B3C5D&fontSize=48&fontAlignY=40&text=Sandro%20Ferreira&desc=Analista%20de%20TI%20%7C%20ITSM%20%7C%20Infraestrutura%20%7C%20Automacao&descAlignY=62&descSize=18&theme=merko">
-  <img alt="Sandro Ferreira" src="https://capsule-render.vercel.app/api?type=waving&color=0F6CBD&fontSize=48&fontAlignY=40&text=Sandro%20Ferreira&desc=Analista%20de%20TI%20%7C%20ITSM%20%7C%20Infraestrutura%20%7C%20Automacao&descAlignY=62&descSize=18&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0B3C5D&fontSize=52&text=Sandro%20Ferreira&theme=merko">
+  <img alt="Sandro Ferreira" src="https://capsule-render.vercel.app/api?type=waving&color=0F6CBD&fontSize=52&text=Sandro%20Ferreira&theme=default">
 </picture>
 
 <br>
 
 ### 💼 Analista de TI • ITSM • Infraestrutura • Monitoramento • Cybersecurity
+
+🇧🇷 Brazil
 
 <br>
 
@@ -23,7 +25,21 @@
 
 </div>
 
+---
+
 Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infraestrutura, Redes, Servidores, Monitoramento, CiberSegurança e Automação**. Transformo as necessidades do dia a dia da TI em **soluções práticas, ferramentas e projetos que geram resultados reais**.
+
+## 🧠 O que eu faço
+
+- 🏗️ **Infraestrutura e redes** como base de tudo
+- 📋 **Processos eservice desk** com ITSM, catálogo e SLA
+- 📊 **Monitoramento e observabilidade** com Zabbix e Grafana
+- ⚡ **Automação** de/scripts, rotinas e integrações
+- 🔐 **Cibersegurança** em ambiente corporativo
+- 🤖 **Automação aplicada à educação** (tutoria EaD)
+- 🎓 **Ensino e mentoria** em TI e redes
+
+---
 
 ## 🎓 Formação & Foco
 
@@ -53,6 +69,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 | Tecnologia | Área |
 |:---:|:---|
 | ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) | Monitoramento e Dashboards |
+| ![GLPI](https://img.shields.io/badge/GLPI-0078D4?style=flat-square&logo=glpi&logoColor=white) | Gestão de Serviços e Inventário |
 | ![SNMP](https://img.shields.io/badge/SNMP-1F2937?style=flat-square) ![Observability](https://img.shields.io/badge/Observability-6C63FF?style=flat-square) | Coleta e Observabilidade |
 
 ### 🌐 Redes
@@ -71,6 +88,21 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) | Automação de Infraestrutura |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Versionamento |
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | Desenvolvimento Web |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sandronsk1977-creator&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandronsk1977-creator&show_icons=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sandronsk1977-creator&layout=compact&langs_count=8&theme=tokyonight">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandronsk1977-creator&layout=compact&langs_count=8&theme=default" alt="Top Langs">
+  </picture>
+</p>
 
 ---
 
@@ -114,7 +146,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ---
 
-## 🧠 O que estou estudando e praticando
+## 📚 O que estou estudando e praticando
 
 ```text
 ┌───────────────────────────────────┐
@@ -132,11 +164,17 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ---
 
+## 💡 Filosofia
+
+> _"TI que funciona é TI que se mede, se automatiza e evolui."_
+
+---
+
 ## 📫 Vamos conversar?
 
 <div align="center">
 
-**TI que funciona é TI que se mede, se automatiza e evolui.** 🚀
+**Problemas de TI viram solutions quando existe método.** 🚀
 
 <p>
   <a href="https://github.com/sandronsk1977-creator">
