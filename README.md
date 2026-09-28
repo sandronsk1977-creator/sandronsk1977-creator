@@ -4,7 +4,7 @@
 
 <br>
 
-**Ferramentas e plataformas do dia a dia**
+<div align="center"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/40934627db6d6bf28c29f597b50c795afff6e9d2/assets/title-stack.svg" alt="Ferramentas e plataformas do dia a dia" width="520"></div>
 
 <table>
   <tr>
@@ -12,7 +12,7 @@
     <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/grafana.svg" width="42" alt="Grafana"><br><b>Grafana</b></td>
     <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/fortigate.svg" width="42" alt="FortiGate"><br><b>FortiGate</b></td>
     <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/azure.svg" width="42" alt="Azure"><br><b>Azure</b></td>
-    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/microsoft-365.svg" width="42" alt="Microsoft 365"><br><b>Microsoft 365</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/microsoft-365.svg" width="42" alt="M365"><br><b>M365</b></td>
     <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/glpi.svg" width="42" alt="GLPI"><br><b>GLPI</b></td>
   </tr>
 </table>
