@@ -52,7 +52,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 ## 🧠 O que eu faço
 
 | | |
-|:---:|:---:|
+|---|---|
 | 🏗️ | **Infraestrutura e Redes** como base de tudo |
 | 📋 | **Processos e service desk** com ITSM, catálogo e SLA com GLPI |
 | 📊 | **Monitoramento e observabilidade** com Zabbix e Grafana |
