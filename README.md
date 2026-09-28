@@ -38,7 +38,7 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 ## 🎓 Formação & Foco
 
 | | |
-|:---:|:---:|
+|---|---|
 | 🎓 | **Graduado em Defesa Cibernética** |
 | 🎓 | **Pós-Graduado em Gestão de Projetos** |
 | 💻 | **Infraestrutura e Suporte de TI** |
