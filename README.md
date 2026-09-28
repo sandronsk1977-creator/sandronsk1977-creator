@@ -13,6 +13,14 @@
 
 <br>
 
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE0000?style=flat-square&logo=fortinet&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-sandronsk1977--creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandronsk1977-creator)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandro%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-ferreira-5816b4284/)
 [![Website](https://img.shields.io/badge/Website-Projetos%20Disruptivos-00AEEF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://projetosdisruptivos.com.br/)
