@@ -4,10 +4,6 @@
 
 <br>
 
-🇧🇷 Brazil
-
-<br>
-
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/main/assets/zabbix.svg" width="38" alt="Zabbix"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/main/assets/grafana.svg" width="38" alt="Grafana"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/main/assets/fortigate.svg" width="38" alt="FortiGate"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/main/assets/azure.svg" width="38" alt="Azure"> | ![](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white) |

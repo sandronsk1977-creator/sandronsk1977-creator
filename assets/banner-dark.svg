@@ -1,18 +1,57 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Sandro Ferreira - Profissional de TI">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0B1220"/>
-      <stop offset="55%" stop-color="#102A43"/>
-      <stop offset="100%" stop-color="#0F6CBD"/>
+      <stop offset="0%" stop-color="#0B1220">
+        <animate attributeName="stop-color" values="#0B1220;#0D1B33;#0B1220" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="55%" stop-color="#102A43">
+        <animate attributeName="stop-color" values="#102A43;#14395E;#102A43" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0F6CBD">
+        <animate attributeName="stop-color" values="#0F6CBD;#1D8AE0;#0F6CBD" dur="14s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="400"/></clipPath>
   </defs>
-  <rect width="1200" height="400" fill="url(#bg)"/>
-  <rect x="0" y="0" width="1200" height="6" fill="#0F6CBD"/>
-  <circle cx="1085" cy="60" r="190" fill="#0F6CBD" opacity="0.12"/>
-  <circle cx="110" cy="370" r="150" fill="#4FC3F7" opacity="0.07"/>
-  <rect x="500" y="330" width="200" height="3" fill="#0F6CBD" opacity="0.8"/>
-  <text x="600" y="165" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Sandro Ferreira</text>
-  <text x="600" y="222" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" fill="#C7D6E5">Profissional de TI &#8226; ITSM &#8226; Infraestrutura &#8226; Monitoramento</text>
-  <text x="600" y="260" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" fill="#C7D6E5">Ciberseguran&#231;a &#8226; Automa&#231;&#227;o &#8226; Redes</text>
-  <text x="600" y="368" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="19" letter-spacing="4" fill="#7FB3E0">BRASIL &#8226; ITIL &#8226; COBIT</text>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="url(#bg)"/>
+
+    <rect x="0" y="0" width="1200" height="6" fill="#0F6CBD">
+      <animate attributeName="fill" values="#0F6CBD;#4FC3F7;#0F6CBD" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <circle cx="1085" cy="60" r="190" fill="#0F6CBD" opacity="0.12">
+      <animate attributeName="cy" values="50;150;50" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="190;220;190" dur="16s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="110" cy="370" r="150" fill="#4FC3F7" opacity="0.07">
+      <animate attributeName="cy" values="380;300;380" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="150;175;150" dur="20s" repeatCount="indefinite"/>
+    </circle>
+
+    <g transform="skewX(-18)">
+      <rect x="-400" y="-120" width="240" height="640" fill="url(#shine)">
+        <animate attributeName="x" values="-400;1500" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <text x="600" y="165" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Sandro Ferreira</text>
+
+    <rect x="500" y="196" width="200" height="3" rx="1.5" fill="#4FC3F7">
+      <animate attributeName="width" values="60;220;60" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="570;490;570" dur="9s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="600" y="252" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" fill="#C7D6E5">Profissional de TI &#8226; ITSM &#8226; Infraestrutura &#8226; Monitoramento</text>
+    <text x="600" y="290" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" fill="#C7D6E5">Ciberseguran&#231;a &#8226; Automa&#231;&#227;o &#8226; Redes</text>
+
+    <text x="600" y="366" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="19" letter-spacing="4" fill="#7FB3E0">BRASIL &#8226; ITIL &#8226; COBIT</text>
+  </g>
 </svg>
