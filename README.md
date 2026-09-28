@@ -13,11 +13,10 @@
 
 <br>
 
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-EE0000?style=flat-square&logo=fortinet&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/main/assets/zabbix.svg" width="38" alt="Zabbix"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/main/assets/grafana.svg" width="38" alt="Grafana"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/main/assets/fortigate.svg" width="38" alt="FortiGate"> | <img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/main/assets/azure.svg" width="38" alt="Azure"> | ![](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white) |
+| **Zabbix** | **Grafana** | **FortiGate** | **Azure** | **Microsoft 365** |
 
 <br>
 
