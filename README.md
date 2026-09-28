@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/sandronsk1977-creator/sandronsk1977-creator@main/assets/banner-dark.svg" alt="Sandro Ferreira - Profissional de TI" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/sandronsk1977-creator/sandronsk1977-creator@a78603daa7b05650577f46dad5b0dccf40cca34d/assets/banner-dark.svg" alt="Sandro Ferreira - Profissional de TI" width="100%">
 
 <br>
 
