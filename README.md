@@ -8,12 +8,12 @@
 
 <table>
   <tr>
-    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/zabbix.svg" width="42" alt="Zabbix"><br><b>Zabbix</b></td>
-    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/grafana.svg" width="42" alt="Grafana"><br><b>Grafana</b></td>
-    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/fortigate.svg" width="42" alt="FortiGate"><br><b>FortiGate</b></td>
-    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/azure.svg" width="42" alt="Azure"><br><b>Azure</b></td>
-    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/microsoft-365.svg" width="42" alt="Microsoft 365"><br><b>Microsoft 365</b></td>
-    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/541778183af5e3eb56f17fe5f4104e0c89f52505/assets/glpi.svg" width="42" alt="GLPI"><br><b>GLPI</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/zabbix.svg" width="42" alt="Zabbix"><br><b>Zabbix</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/grafana.svg" width="42" alt="Grafana"><br><b>Grafana</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/fortigate.svg" width="42" alt="FortiGate"><br><b>FortiGate</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/azure.svg" width="42" alt="Azure"><br><b>Azure</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/microsoft-365.svg" width="42" alt="Microsoft 365"><br><b>Microsoft 365</b></td>
+    <td align="center" width="16%"><img src="https://raw.githubusercontent.com/sandronsk1977-creator/sandronsk1977-creator/24d8c6c0eb7de7b79fd8b14f6cbd7a0c45003e3f/assets/glpi.svg" width="42" alt="GLPI"><br><b>GLPI</b></td>
   </tr>
 </table>
 
