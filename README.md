@@ -119,17 +119,17 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 ## 🧠 O que estou estudando e praticando
 
 ```text
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│   🐍 Python                       📈 Progresso ████████░░ 80%│
-│   🤖 Automação com IA             📈 Progresso ██████░░░░ 60%│
-│   🔐 Cybersecurity                📈 Progresso ███████░░░ 70%│
-│   ☁️ Cloud Computing              📈 Progresso █████░░░░░ 50%│
-│   📊 Observabilidade              📈 Progresso ██████░░░░ 60%│
-│   🚀 DevOps                       📈 Progresso ████░░░░░░ 40%│
-│   📋 Gestão de Projetos           📈 Progresso ███████░░░ 70%│
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│   🐍 Python                       📈 Progresso ████████░░│
+│   🤖 Automação com IA             📈 Progresso ██████░░░░│
+│   🔐 Cybersecurity                📈 Progresso ███████░░░│
+│   ☁️ Cloud Computing              📈 Progresso █████░░░░░│
+│   📊 Observabilidade              📈 Progresso ██████░░░░│
+│   🚀 DevOps                       📈 Progresso ████░░░░░░│
+│   📋 Gestão de Projetos           📈 Progresso ███████░░░│
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
 
 ---
