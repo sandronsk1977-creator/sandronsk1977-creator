@@ -31,29 +31,39 @@
 
 ---
 
+<div align="center">
+
 Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infraestrutura, Redes, Servidores, Monitoramento, CiberSegurança e Automação**. Transformo as necessidades do dia a dia da TI em **soluções práticas, ferramentas e projetos que geram resultados reais**.
+
+</div>
+
+---
 
 ## 🎓 Formação & Foco
 
-- 🎓 **Graduado em Defesa Cibernética**
-- 🎓 **Pós-Graduado em Gestão de Projetos**
-- 💻 **Infraestrutura e Suporte de TI**
-- 📊 **Monitoramento e Observabilidade**
-- 🌐 **Redes e Conectividade**
-- 🔐 **Cybersecurity**
-- ⚙️ **Automação e Scripts** (Python, PowerShell, Bash e IA)
+| | |
+|:---:|:---:|
+| 🎓 | **Graduado em Defesa Cibernética** |
+| 🎓 | **Pós-Graduado em Gestão de Projetos** |
+| 💻 | **Infraestrutura e Suporte de TI** |
+| 📊 | **Monitoramento e Observabilidade** |
+| 🌐 | **Redes e Conectividade** |
+| 🔐 | **Cybersecurity** |
+| ⚙️ | **Automação e Scripts** (Python, PowerShell, Bash e IA) |
 
 ---
 
 ## 🧠 O que eu faço
 
-- 🏗️ **Infraestrutura e Redes** como base de tudo
-- 📋 **Processos e service desk** com ITSM, catálogo e SLA com GLPI
-- 📊 **Monitoramento e observabilidade** com Zabbix e Grafana
-- ⚡ **Automação** de scripts, rotinas e integrações
-- 🔐 **Cibersegurança** em ambiente corporativo
-- 🤖 **Automação com IA**
-- 🎓 **Ensino e mentoria** em TI e Redes
+| | |
+|:---:|:---:|
+| 🏗️ | **Infraestrutura e Redes** como base de tudo |
+| 📋 | **Processos e service desk** com ITSM, catálogo e SLA com GLPI |
+| 📊 | **Monitoramento e observabilidade** com Zabbix e Grafana |
+| ⚡ | **Automação** de scripts, rotinas e integrações |
+| 🔐 | **Cibersegurança** em ambiente corporativo |
+| 🤖 | **Automação com IA** |
+| 🎓 | **Ensino e mentoria** em TI e Redes |
 
 ---
 
