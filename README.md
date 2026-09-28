@@ -7,7 +7,7 @@
 
 <br>
 
-### 💼 Analista de TI • ITSM • Infraestrutura • Monitoramento • Cybersecurity
+### 👨🏻‍💻 Profissional de TI • ITSM • Infraestrutura • Monitoramento • Cybersecurity • Automação • Redes
 
 🇧🇷 Brazil
 
@@ -31,13 +31,13 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ## 🧠 O que eu faço
 
-- 🏗️ **Infraestrutura e redes** como base de tudo
-- 📋 **Processos eservice desk** com ITSM, catálogo e SLA
+- 🏗️ **Infraestrutura e Redes** como base de tudo
+- 📋 **Processos e service desk** com ITSM, catálogo e SLA com GLPI
 - 📊 **Monitoramento e observabilidade** com Zabbix e Grafana
-- ⚡ **Automação** de/scripts, rotinas e integrações
+- ⚡ **Automação** de scripts, rotinas e integrações
 - 🔐 **Cibersegurança** em ambiente corporativo
-- 🤖 **Automação aplicada à educação** (tutoria EaD)
-- 🎓 **Ensino e mentoria** em TI e redes
+- 🤖 **Automação com IA**
+- 🎓 **Ensino e mentoria** em TI e Redes
 
 ---
 
@@ -88,21 +88,6 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) | Automação de Infraestrutura |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Versionamento |
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | Desenvolvimento Web |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sandronsk1977-creator&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sandronsk1977-creator&show_icons=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sandronsk1977-creator&layout=compact&langs_count=8&theme=tokyonight">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandronsk1977-creator&layout=compact&langs_count=8&theme=default" alt="Top Langs">
-  </picture>
-</p>
 
 ---
 
@@ -164,17 +149,11 @@ Sou profissional de **Tecnologia da Informação** com atuação em **ITSM, Infr
 
 ---
 
-## 💡 Filosofia
-
-> _"TI que funciona é TI que se mede, se automatiza e evolui."_
-
----
-
 ## 📫 Vamos conversar?
 
 <div align="center">
 
-**Problemas de TI viram solutions quando existe método.** 🚀
+**Transformando Dados em Soluções.** 🚀
 
 <p>
   <a href="https://github.com/sandronsk1977-creator">
