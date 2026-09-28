@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Sandro Ferreira - Profissional de TI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#102A43"/>
+      <stop offset="100%" stop-color="#0F6CBD"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#0F6CBD"/>
+  <circle cx="1085" cy="60" r="190" fill="#0F6CBD" opacity="0.12"/>
+  <circle cx="110" cy="370" r="150" fill="#4FC3F7" opacity="0.07"/>
+  <rect x="500" y="330" width="200" height="3" fill="#0F6CBD" opacity="0.8"/>
+  <text x="600" y="165" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Sandro Ferreira</text>
+  <text x="600" y="222" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" fill="#C7D6E5">Profissional de TI &#8226; ITSM &#8226; Infraestrutura &#8226; Monitoramento</text>
+  <text x="600" y="260" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" fill="#C7D6E5">Ciberseguran&#231;a &#8226; Automa&#231;&#227;o &#8226; Redes</text>
+  <text x="600" y="368" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="19" letter-spacing="4" fill="#7FB3E0">BRASIL &#8226; ITIL &#8226; COBIT</text>
+</svg>
