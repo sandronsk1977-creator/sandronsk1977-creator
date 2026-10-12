@@ -92,7 +92,7 @@ Profissional de **Tecnologia da Informação** com atuação em **ITSM, Infraest
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 ### 🌐 Portfolio
 
@@ -104,13 +104,23 @@ Profissional de **Tecnologia da Informação** com atuação em **ITSM, Infraest
 
 ---
 
-### 🛡️ SF-Cyber
+### 🛡️ SF-Cyber 🎓 Academia Digital de Redes e Ciberseguranç
 
 > Projeto voltado para **Cybersecurity** e **Redes**, com uma plataforma de simulação prática: switch Cisco para criação de VLANs, análise SOC, segurança web (SQLi e XSS) e servidor DNS. Cada simulador tem **8 níveis**, avaliação final e certificado de conclusão.
 
 **[🔗 Ver projeto](https://github.com/sandronsk1977-creator/sf-cyber)** • **[🌐 Site](https://sfcyber.projetosdisruptivos.com.br/)**
 
 **Tecnologias:** React • TypeScript • Vite • HTML • CSS • JavaScript • Redes • Segurança
+
+---
+
+### 👨🏻‍💻 Laboratório Virtual Cisco Packet Tracer 🧩
+
+> Laboratório virtual interativo para executar o desafio de redes. Segmentar uma empresa em 03 departamentos (TI, RH e Marketing) com VLANs, DHCP e Inter-VLAN Routing.
+
+**[🔗 Ver projeto](https://github.com/sandronsk1977-creator/V_Routing_DHCP)** • **[🌐 Site](https://desafiovlan.projetosdisruptivos.com.br)**
+
+**Tecnologias:** HTML • CSS • JavaScript •
 
 ---
 
