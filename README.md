@@ -104,7 +104,7 @@ Atuação em **ITSM, Infraestrutura, Redes, Servidores, Monitoramento, CiberSegu
 
 ---
 
-### 🛡️ SF-Cyber 🎓 Academia Digital de Redes e Ciberseguranç
+### 🛡️ SF-Cyber 🎓 Academia Digital de Redes e Cibersegurança
 
 > Projeto voltado para **Cybersecurity** e **Redes**, com uma plataforma de simulação prática: switch Cisco para criação de VLANs, análise SOC, segurança web (SQLi e XSS) e servidor DNS. Cada simulador tem **8 níveis**, avaliação final e certificado de conclusão.
 
