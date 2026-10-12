@@ -120,7 +120,7 @@ Atuação em **ITSM, Infraestrutura, Redes, Servidores, Monitoramento, CiberSegu
 
 **[🔗 Ver projeto](https://github.com/sandronsk1977-creator/V_Routing_DHCP)** • **[🌐 Site](https://desafiovlan.projetosdisruptivos.com.br)**
 
-**Tecnologias:** HTML • CSS • JavaScript •
+**Tecnologias:** HTML • CSS • JavaScript
 
 ---
 
