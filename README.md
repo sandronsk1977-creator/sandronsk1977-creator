@@ -116,7 +116,7 @@ Profissional de **Tecnologia da Informação** com atuação em **ITSM, Infraest
 
 ### 👨🏻‍💻 Laboratório Virtual Cisco Packet Tracer 🧩
 
-> Laboratório virtual interativo para executar o desafio de redes. Segmentar uma empresa em 03 departamentos (TI, RH e Marketing) com VLANs, DHCP e Inter-VLAN Routing.
+> Laboratório virtual interativo para executar comandos e cumprir os desafios de redes. Segmentar uma empresa em 03 departamentos (TI, RH e Marketing) com VLANs, DHCP e Inter-VLAN Routing.
 
 **[🔗 Ver projeto](https://github.com/sandronsk1977-creator/V_Routing_DHCP)** • **[🌐 Site](https://desafiovlan.projetosdisruptivos.com.br)**
 
